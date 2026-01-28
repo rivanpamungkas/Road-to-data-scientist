@@ -1,0 +1,2 @@
+-- Catatan belajar SQL
+-- Modul 0 : Select Basicc
